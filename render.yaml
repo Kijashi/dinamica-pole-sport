@@ -1,0 +1,9 @@
+services:
+  - type: static
+    name: dinamica-pole-sport
+    buildCommand: echo 'Static site ready'
+    staticPublishPath: ./
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
