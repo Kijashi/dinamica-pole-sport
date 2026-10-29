@@ -1,0 +1,82 @@
+{
+    "id":  "sub_853850f7-b69a-4cc4-b135-cb60277ec70c",
+    "refCode":  "REF-92D152D685CB9DD4",
+    "fechaEnvio":  "2026-10-25T22:51:57.115Z",
+    "estado":  "nuevo",
+    "negocio":  {
+                    "nombre":  "Dinámica Pole sport Aéreos y más ",
+                    "rubro":  "Gimnasio / Deporte / Fitness",
+                    "descripcion":  "Ofrecemos clases personalizadas de pole sport, tela y aro aéreo. Nuestro enfoque es la enseñanza de estas disciplinas a personas mayores de 35 años ya que somos conscientes que requieren de un trato más guiado, rutinas mas personalizadas para alcanzar sus objetivos y de paciencia para que puedan entender cada movimiento. Aunque nuestro enfoque son las personas de esas edades o más también brindamos el servicio a quienes lo deseen practicar después de las 13 años de edad.\r\nManejamos grupos muy pequeños (3 alumnos por clase) lo cual garantiza que nuestros alumnos si aprenden, cada una a su ritmo y sin sentirse presionados o resagados, aquí todos aprenden desde lo más básico y avanzan respetando su proceso de aprendizaje.\r\nTenemos horarios súper  flexibles por la mañana, tarde y noche. \r\nLas mensualidades tienen un costo muy accesible porque buscamos que cada vez sean mas las personas que busque hacer cambios en su estilo de vida se salgan un poco de la rutina y se enamoren de estas disciplinas que siempre los van a motivar a más.",
+                    "publicoObjetivo":  "Personas mayores de 13 años. Adolescentes, jóvenes y adultos",
+                    "ofertaPrincipal":  "Horarios flexibles de mañana, tarde y noche."
+                },
+    "contacto":  {
+                     "responsable":  "Belbeth Little",
+                     "cargo":  "Fundadora y Entrenadora (7 años de experiencia)",
+                     "telefonoWhatsApp":  "62025442",
+                     "email":  "belbethli21@gmail.com",
+                     "direccionLocal":  "De Pizza Hut de Plaza Decosure 200 al este. Gravilias Desamparados",
+                     "horarios":  "Lunes a viernes 10:00 am a 8:00 pm, sábados 8:00 am a 1:00 pm",
+                     "googleMapsUrl":  ""
+                 },
+    "redesSociales":  {
+                          "instagram":  "Dinámica Pole Sport Aéreos y más ",
+                          "facebook":  "",
+                          "tiktok":  "Dinámica 2112",
+                          "linkedin":  "",
+                          "canalVentasMayor":  "Instagram DMs"
+                      },
+    "estrategiaWeb":  {
+                          "objetivoPrincipal":  "Presencia y Confianza de Marca",
+                          "seccionesRequeridas":  [
+                                                      "Inicio (Home)",
+                                                      "Nosotros / Historia",
+                                                      "Servicios / Menú",
+                                                      "Galería de Fotos del Local",
+                                                      "Opiniones / Testimonios",
+                                                      "Contacto y Mapa"
+                                                  ],
+                          "referenciasVisuales":  "",
+                          "estadoDominio":  "No tengo, necesito que lo compren y gestionen",
+                          "coloresMarca":  "Morado, lila, amarillo, azul "
+                      },
+    "multimedia":  {
+                       "archivos":  [
+                                        {
+                                            "fieldname":  "logo",
+                                            "originalname":  "IMG_6803.jpeg",
+                                            "filename":  "c37a83c3-0dc1-4987-b631-31903a6621db.jpg",
+                                            "size":  "0.05 MB",
+                                            "mimetype":  "image/jpeg"
+                                        },
+                                        {
+                                            "fieldname":  "localImages",
+                                            "originalname":  "IMG_8777.jpeg",
+                                            "filename":  "43d38ce2-6030-4b49-9be9-52fb63c499c7.jpg",
+                                            "size":  "0.10 MB",
+                                            "mimetype":  "image/jpeg"
+                                        },
+                                        {
+                                            "fieldname":  "localImages",
+                                            "originalname":  "IMG_8778.jpeg",
+                                            "filename":  "70e278d8-a766-46e0-a5fd-9d72fe6b9768.jpg",
+                                            "size":  "0.09 MB",
+                                            "mimetype":  "image/jpeg"
+                                        },
+                                        {
+                                            "fieldname":  "localImages",
+                                            "originalname":  "IMG_8779.jpeg",
+                                            "filename":  "d5d33d41-99c7-419a-b96b-1978f4516b86.jpg",
+                                            "size":  "0.09 MB",
+                                            "mimetype":  "image/jpeg"
+                                        }
+                                    ],
+                       "driveLink":  "",
+                       "notasAdicionales":  ""
+                   },
+    "privacidad":  {
+                       "consentimiento":  true,
+                       "version":  "2026-10-25",
+                       "fecha":  "2026-10-25T22:51:57.115Z"
+                   }
+}
